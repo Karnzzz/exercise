@@ -2,4 +2,4 @@
 
 This is my first Git project
 
-test test test
+Completeing exercise 3 
